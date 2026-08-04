@@ -5,6 +5,8 @@
 
 Proud graduated from University of Guadalajara (Orgullosamente tapatío).
 
+Hispano 🇲🇽 
+
 I've been worked on Tech Support for the last six years, but also contributing with some code solutions on those projects.
 
 My companies:
@@ -14,8 +16,10 @@ My companies:
 - Wipro
 
 I love Atlas FC ❤️🖤
+
 I love read about History, Politics, Economics, and Fiction Science 📖
 
+¡Viva Cristo Rey! ✝️
 <!--
 **carloscabrera95/carloscabrera95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
